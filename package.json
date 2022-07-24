@@ -1,0 +1,20 @@
+{
+  "name": "expressproject",
+  "version": "1.0.0",
+  "description": "Express project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "manish",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "fs-filesystem": "^2.1.2",
+    "init": "^0.1.2",
+    "nodemon": "^2.0.19"
+  },
+  "engines": {
+    "node": "16.14.0"
+  }
+}
